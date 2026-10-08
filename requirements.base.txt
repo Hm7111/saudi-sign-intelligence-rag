@@ -1,0 +1,11 @@
+# Usually already in the ROCm base image: installed only if missing (an unpinned name never replaces an installed one).
+numpy
+filelock
+fsspec
+packaging
+typing_extensions
+Jinja2
+MarkupSafe
+idna
+certifi
+sniffio

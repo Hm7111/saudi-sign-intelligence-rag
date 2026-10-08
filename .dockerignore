@@ -1,0 +1,7 @@
+tools/
+**/__pycache__/
+**/*.pyc
+models/vlm/.cache/
+*.tgz
+*.md
+!README.md
